@@ -185,7 +185,7 @@ A reference to a single module that defines the operations that Ansible performs
 ### Module
 A unit of code or binary that Ansible runs on managed nodes. Ansible modules are grouped in collections with a Fully Qualified Collection Name (FQCN) for each module.
 
-<video controls src="video/play-vid.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/b7bc2b0e-e136-43e1-9521-3136ac86ea5a
 
 ### Output
 The names that you give the play and each task.
